@@ -1,29 +1,27 @@
 <h1 align="center">Hola!<img width="50px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTlkenpidDN0enVmNzgweHZraDkwZmRicG9jdGJ5OXF0OXlwbDd0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/w1OBpBd7kJqHrJnJ13/giphy.gif">Soy Víctor González</h1>
 <!------------------------------------------------------INTRO-------------------------------------------------------->
 <br>
-<img width="250" height="200" align="right" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg4cGV5cmphaW0yYWxmendydm9jaTVvbXMxNzI5dGRxc3U2Z3dmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 <p>
 Soy un desarrollador fullstack apasionado por la tecnología web. Trabajo con una amplia variedad de herramientas y frameworks para crear soluciones completas, tanto en el frontend como en el backend. Mi enfoque incluye la integración de elementos 2D y 3D con tecnologías como A-Frame y Three.js, añadiendo experiencias interactivas y visualmente impactantes.
 
 Me encanta sumergirme en el aprendizaje de nuevas técnicas y herramientas para mejorar mis habilidades 
 y disfruto compartiendo mis conocimientos con la comunidad.
 </p>
-<br>
-  <img width="250" height="200" align="left" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhhZWtvYnp1a210eW05dGNtNmUzcXN1djBoZGs0d2s0ejRqNGZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqGLCuhdO7XNJbgSiU/giphy.gif">
-  
-- ⭐Desarrollador Fullstack Junior
-- 📚 Actualmente aprendiendo: React
-- 👯 Abierto a colaborar en proyectos
-- 💬 Pregúntame sobre A-Frame
-- 📫 Contáctame: vgtrapero@gmail.com
-
-<br>
-<br>
+<div align="center"> 
+      <p>⭐ Desarrollador Fullstack Junior</p>
+      <p>📚 Actualmente aprendiendo: React</p>
+      <p>👯 Abierto a colaborar en proyectos</p>
+      <p>💬 Pregúntame sobre A-Frame</p>
+      <p>📫 Contáctame: vgtrapero@gmail.com</p>
+</div>
 
 <!------------------------------------------------------GIF--------------------------------------------------------->
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Hay%20dos%20formas%20de%20escribir%20programas%20sin%20errores%3B%20solo%20la%20tercera%20funciona.&author=Alan%20Perlis">
+  <img width="300"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhhZWtvYnp1a210eW05dGNtNmUzcXN1djBoZGs0d2s0ejRqNGZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqGLCuhdO7XNJbgSiU/giphy.gif">
+<img  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Hay%20dos%20formas%20de%20escribir%20programas%20sin%20errores%3B%20solo%20la%20tercera%20funciona.&author=Alan%20Perlis">
+<img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg4cGV5cmphaW0yYWxmendydm9jaTVvbXMxNzI5dGRxc3U2Z3dmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 </div>
+<br>
 <!------------------------------------------------------TECH STACK--------------------------------------------------------->
 <h2><img src="https://img.icons8.com/?size=100&id=FEvCqvHeABXC&format=png&color=000000" width="40"> Tech Stack</h2>
 
