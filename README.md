@@ -17,9 +17,9 @@ y disfruto compartiendo mis conocimientos con la comunidad.
 
 <!------------------------------------------------------GIF--------------------------------------------------------->
 <div align="center">
-  <img width="300"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhhZWtvYnp1a210eW05dGNtNmUzcXN1djBoZGs0d2s0ejRqNGZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqGLCuhdO7XNJbgSiU/giphy.gif">
-<img  src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Hay%20dos%20formas%20de%20escribir%20programas%20sin%20errores%3B%20solo%20la%20tercera%20funciona.&author=Alan%20Perlis">
-<img width="300" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg4cGV5cmphaW0yYWxmendydm9jaTVvbXMxNzI5dGRxc3U2Z3dmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
+  <img width="250"  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHhhZWtvYnp1a210eW05dGNtNmUzcXN1djBoZGs0d2s0ejRqNGZidyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lqGLCuhdO7XNJbgSiU/giphy.gif">
+<img width="250" src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=Hay%20dos%20formas%20de%20escribir%20programas%20sin%20errores%3B%20solo%20la%20tercera%20funciona.&author=Alan%20Perlis">
+<img width="250" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzg4cGV5cmphaW0yYWxmendydm9jaTVvbXMxNzI5dGRxc3U2Z3dmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif">
 </div>
 <br>
 <!------------------------------------------------------TECH STACK--------------------------------------------------------->
